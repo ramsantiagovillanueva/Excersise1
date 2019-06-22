@@ -1,0 +1,17 @@
+h1{
+    color:rebeccapurple
+}
+.text-blue{
+    color: blue
+}
+.head-div{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin:20px;
+    float: left;
+}
+.head-div>p{
+    color: #ffffff
+    padding: 20px
+}
