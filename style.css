@@ -1,21 +1,41 @@
-
-h1{
-    color:rebeccapurple
-}
-.text-blue{
-    color: blue
-}
-.head-div{
-    width: 300px;
-    height: 300px;
-    background-color: purple;
-    margin:20px;
-    float: left;
-}
-.head-div>p{
-    color: #ffffff
-    
-}
-.head-div>h2{
-    color: orange;
-}
+body{
+	margin:100px;
+	padding:100px;
+	background:url(r.jpg) no-repeat;
+	background-size:cover;
+	}
+	.background{
+	width:500px;
+	background:rgba(0, 0, 0, 0.10);
+	padding:20px;
+	text-align:center;
+	margin:auto;
+	margin-top:50%;
+	color:blanchedalmond;
+	font-family:Century Gothic;
+	}
+	.background-img{
+	border-radius:80%;
+	width:100px;
+	height:100px;
+	}
+	.background h1{
+	font-size:50px;
+	letter-spacing:4px;
+	font-weight:100;
+	}
+	.background h2{
+	font-size:20px;
+	letter-spacing:3px;
+	font-weight:100;
+	}
+	.background h1{
+	font-size:20px;
+	letter-spacing:0px;
+	font-weight:300;
+	}
+	.background h2{
+	font-size:40px;
+	letter-spacing:0px;
+	font-weight:300;
+	}
